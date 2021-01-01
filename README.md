@@ -3,7 +3,7 @@ A complete code to download for a music bot. Using a module (discord-player) �
 
 Looking for a code for a music bot ? This fully open source code is made for your project !
 
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/indiavale).
 
 ### ⚡ Installation
 
@@ -81,6 +81,6 @@ debug, see number of voice connections.
 
 ### 🏓 Utilities (to change the code)
 
-Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
+Find all the functions available on the official code [right here](https://github.com/flybizit-dev/melody).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
